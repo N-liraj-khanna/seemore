@@ -108,7 +108,7 @@ With the first version of the app, we can detect up to 80 different everyday obj
 - Swipe left or use the command “currency” to detect currency denominations.
 
 <p align="center">
-<img width="150px" height="300px" src="./Backend/Images/2.jpg" alt="App">
+<img width="150px" height="300px" src="./Backend/Images/3.jpg" alt="App">
 <br/>
 <img src="./Backend/Images/curr.png" alt="App">
 </p>
@@ -117,7 +117,7 @@ With the first version of the app, we can detect up to 80 different everyday obj
 - Swipe up or use the command “read text” to read the detected text. This has been implemented using an optical character recognition (OCR) tool that will recognize and read the text embedded in images.
 
 <p align="center">
-<img width="150px" height="300px" src="./Backend/Images/3.jpg" alt="App">
+<img width="150px" height="300px" src="./Backend/Images/2.jpg" alt="App">
 <br/>
 <img src="./Backend/Images/txt.png" alt="App">
 </p>
