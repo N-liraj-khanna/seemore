@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="/Frontend/assets/icons/logo_app.png" alt="Blind-Eye" width="200">
+  <img src="/Frontend/assets/icons/logo_app.png" alt="seemore" width="200">
   <br>
-  Blind Eye
+  seemore
   <br>
 </h1>
 
@@ -64,7 +64,7 @@ $ pip install -r requirements.txt
 
 ```
 .
-blind_ai/
+seemore/
 ├─ Frontend/
 ├─ calibration/
 │  ├─ Ref_image.png
@@ -134,10 +134,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/N-liraj-khanna/Blind-AI
+$ git clone https://github.com/N-liraj-khanna/seemore.git
 
 # Go into the repository
-$ cd Blind-AI-Backend
+$ cd seemore
 
 # Install dependencies
 $ pip install -r requirements.txt
