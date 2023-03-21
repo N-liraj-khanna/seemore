@@ -33,9 +33,8 @@
   <a href="#contributors">Contributors</a> •
   <a href="#license">License</a>
 </p>
-
 <p align="center">
-<img width = 30% src="https://user-images.githubusercontent.com/73516876/193432075-1e0bcc3c-0681-441d-bab5-4d185f25c974.jpeg" alt="App">
+<img width = 100% src="./Backend/Images/main.png" alt="App">
 </p>
 
 ## Introduction
